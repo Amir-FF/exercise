@@ -1,1 +1,1 @@
-!.axoCover/settings.json
+coverage*[.json, .xml, .info]
